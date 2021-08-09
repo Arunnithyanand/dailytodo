@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d68c171-291f-4c5f-ab00-f61561fa102d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../advanced python/.idea/advanced python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array/Gcd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../array/binary search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dictionary/.idea/dictionary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dictionary/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/django projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/.idea/calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/calc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/calc/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/calc/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/calc/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/calc/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/calc/templates/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/calc/templates/div.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/calc/templates/mul.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/calc/templates/sub.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/calc/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/calc/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/calc/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../center/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../center/.idea/center.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../center/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../center/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../center/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../center/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../center/centerhead/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../center/centerhead/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../center/centerhead/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../center/centerhead/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../center/centerhead/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../center/centerhead/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../center/centerhead/templates/addbatch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../center/centerhead/templates/addcourse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../center/centerhead/templates/homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../center/centerhead/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../center/centerhead/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../center/centerhead/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../center/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dailytodo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailytodo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailytodo/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailytodo/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailytodo/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailytodo/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/templates/listtodo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/templates/registration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/templates/todocreate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/templates/updatetodo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/templates/viewtodo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/.idea/employee.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/employedata/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/employedata/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/employedata/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/employedata/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/employedata/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/employedata/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/employedata/templates/addemployee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/employedata/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/employedata/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/employedata/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/employedata/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee/employedata/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../films/.idea/films.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/.idea/first_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/centerhead/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/centerhead/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/centerhead/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/centerhead/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/centerhead/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/centerhead/templates/addbatch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/centerhead/templates/addcourse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/centerhead/templates/homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/centerhead/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/centerhead/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/centerhead/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/counselor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/counselor/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/counselor/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/counselor/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/counselor/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/counselor/templates/admissions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/counselor/templates/feedback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/counselor/templates/followup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/counselor/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/counselor/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/counselor/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/faculties/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/faculties/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/faculties/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/faculties/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/faculties/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/faculties/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/faculties/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/faculties/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/first_project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/first_project/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/first_project/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/first_project/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/first_project/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_project/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/.idea/library.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/static/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/static/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/templates/addbook.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/templates/displaybook.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/templates/registration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/templates/updates.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/templates/viewbook.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/bookstore/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/library/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/library/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/library/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/library/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/library/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/.idea/luminar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/centerhead/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/centerhead/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/centerhead/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/centerhead/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/centerhead/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/centerhead/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/centerhead/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/centerhead/static/images/butterfly-hd-wallpapers-wild-life-wallpaper-178344756.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/centerhead/templates/addbatch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/centerhead/templates/addcourse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/centerhead/templates/basepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/centerhead/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/centerhead/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/centerhead/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/centerhead/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/counsilor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/counsilor/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/counsilor/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/counsilor/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/counsilor/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/counsilor/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/counsilor/static/css/coustyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/counsilor/templates/admission.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/counsilor/templates/feedback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/counsilor/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/counsilor/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/counsilor/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../luminar/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/.idea/mobilestore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/images/images.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/images/index.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/migrations/0002_mobile_brand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/templates/brandview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/templates/display.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/templates/list_mobiles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/templates/mobile_create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/templates/updatemobile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/templates/updates.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/templates/viewbrands.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/templates/viewmobile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobileapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobilestore/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobilestore/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobilestore/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobilestore/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobilestore/mobilestore/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie/.idea/movie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/.idea/mycomputer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/lapstore/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/lapstore/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/lapstore/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/lapstore/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/lapstore/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/lapstore/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/lapstore/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/lapstore/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/lapstore/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/lapstore/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/mycomputer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/mycomputer/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/mycomputer/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/mycomputer/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mycomputer/mycomputer/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondproject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondproject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondproject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondproject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondproject/.idea/secondproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondproject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondproject/centerhead/templates/addbatch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondproject/centerhead/templates/addcourse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondproject/centerhead/templates/homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondproject/centerhead/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mysqlbasics/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mysqlbasics/table creation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mysqlbasics/table fetching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mysqlbasics/table1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flowcontrols/functions/star.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Flowcontrols/functions/star.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../django/intro.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1wRMsyj6IKL1KmqxJn2ZZrdYUDS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d68c171-291f-4c5f-ab00-f61561fa102d" name="Changes" comment="" />
+      <created>1628417159273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628417159273</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

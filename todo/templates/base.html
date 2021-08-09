@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+{% load static%}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+     <style>
+    body{
+    width:100vw;
+    height:100vh;
+    background-color: #52ACFF;
+    background-image: linear-gradient(180deg, #52ACFF 25%, #FFE32C 100%);
+    background-repeat:no-repeat;
+}
+  </style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Todo</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <li><a class="dropdown-item" href="{% url 'home'%}">Home</a></li>
+        </li>
+
+        <li class="nav-item">
+          <li><a class="dropdown-item" href="{% url 'create'%}">Create Todo</a></li>
+
+        <li class="nav-item">
+          <li><a class="dropdown-item" href="{% url 'todolist'%}">List Todo</a></li>
+        </li>
+
+
+      </ul>
+    </div>
+  </div>
+</nav>
+{%block body_block%}
+
+
+{%endblock%}
+
+</body>
+</html>
